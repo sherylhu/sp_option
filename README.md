@@ -2,6 +2,13 @@
 ## DCC_GRACH- estimate vol
 ## Implied correlation
 
-# Option Pricing Library
+# Q library
+## Option Pricing Library
 pricing formular, calibration, model review
-# ML library
+
+# P library
+## ML library
+## time series library
+
+# textural analysis Library
+analysis text information
