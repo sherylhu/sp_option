@@ -1,2 +1,3 @@
 # sp_option
-python code 
+## DCC_GRACH- estimate vol
+## Implied correlation
